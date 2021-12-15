@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m Tomáš Sobota
-- 👀 I’m interested in taking photos, watching films and serials and programing
 
-- You can visit my pacman project
+* I’m interested in taking photos, watching films and serials and programing
+* You can visit my pacman project
 
 <!---
 sobotat/sobotat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
